@@ -1,5 +1,5 @@
-# MyBlog
-> 我的博客
+# MyBlog-Jekyll
+> 我的Jekyll 博客
 一个Jekyll博客，记录自己的想法和学习资料。
 
 ## 安装
