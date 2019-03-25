@@ -4,6 +4,6 @@
     项目使用Jekyll及Jekyll皮肤：LessOrMore；感谢他们！
 
 ## 博客地址
-[大世界的博客](https://http://worldsunssj.github.io/)
+[大世界的博客](https://http://shijie1987ssj.github.io/)
 
-博客地址：(http://worldsunssj.github.io/)
+博客地址：(http://shijie1987ssj.github.io/)
